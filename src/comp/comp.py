@@ -74,3 +74,5 @@ print("Square root of ages:")
 import math
 h = [sqrt(human.age) for human in humans]
 print(h)
+
+# completed sprint 2:34 7/16/2020
